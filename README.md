@@ -10,8 +10,7 @@ Piano virtual ini fleksibel karena _octavnya_ dapat disesuaikan
 
 - Clone Repository
 ```
-git clone https://github.com/NAGAMALLYSRUJAN2329/vir_piano.git
-cd vir_piano
+https://github.com/ridhofrd/-Piano
 ```
 - Buat Environment Conda(Opsional)
 ```
