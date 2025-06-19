@@ -33,6 +33,6 @@ python main.py
 ```
 
 ### CATATAN PENTING
-Aplikasi ini bukan aplikasi original karena mengambil referensi dari repository github ini: 
+Aplikasi ini bukan aplikasi original karena mengambil referensi dari repository github ini: https://github.com/NAGAMALLYSRUJAN2329/vir_piano.git
 
 "# -Piano" 
