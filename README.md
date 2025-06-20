@@ -26,6 +26,9 @@ pip install -r requirements.txt
 
 ```
 python main.py
+
+Untuk streamlit, gunakan file: streamlit_main.py
+streamlit run streamlit_main.py
 ```
 
 ### CATATAN PENTING
